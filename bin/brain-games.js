@@ -1,2 +1,3 @@
 #!/bin/env node
-console.log('Welcome to the Brain Games!');
+import brain_games from '../src/cli.js'
+brain_games();

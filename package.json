@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/F7vn-dev/frontend-project-lvl1#readme",
   "dependencies": {
+    "moment": "^2.29.1",
     "moments": "^0.0.2",
-    "moment": "^2.29.1"
+    "readline-sync": "^1.4.10"
   },
   "bin": {
     "brain-games": "bin/brain-games.js"
