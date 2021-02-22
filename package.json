@@ -1,0 +1,27 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "hexlet first test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F7vn-dev/frontend-project-lvl1.git"
+  },
+  "author": "f7vn",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/F7vn-dev/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/F7vn-dev/frontend-project-lvl1#readme",
+  "dependencies": {
+    "moments": "^0.0.2",
+    "moment": "^2.29.1"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
+}
